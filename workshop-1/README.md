@@ -27,14 +27,14 @@
 
 - #### Detail schedule
 
-  - 28th Aug.  09.00- 10.30（UTC +4），13.00- 14.30（UTC +8）
+  - 28th Aug.  09.00- 10.30（UTC +4），14.00- 15.30（UTC +8）
 
     | Time          | Activity                                   |
     | ------------- | ------------------------------------------ |
-    | 13:00 - 13:20 | Experience the metauniverse of Andverse    |
-    | 13:20 - 13:40 | Skill learning                             |
-    | 13:40 - 14:20 | Create your scenes & Deploy your scenes    |
-    | 13:20 - 14:30 | Q & A    |
+    | 14:00 - 14:20 | Experience the metauniverse of Andverse    |
+    | 14:20 - 14:40 | Skill learning                             |
+    | 14:40 - 15:20 | Create your scenes & Deploy your scenes    |
+    | 15:20 - 16:00 | Q & A    |
 
 ### Participate
 
